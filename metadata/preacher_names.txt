@@ -6,7 +6,6 @@ Presbítero,Humberto Elias
 Pastor,Ben-Hur
 Reverendo,Paulo Brasil
 Seminarista,Fabrício Zamboni
-Pastor,Ricardo
 Pastor,Ricardo Toniolo
 Presbítero,Éder Júnior
 Presbítero,Marco Túlio
@@ -24,5 +23,7 @@ Reverendo,Alan Rennê Alexandrino
 Pastor,Fillipe Mendes Cotta
 Pastor,Raimundo Montenegro
 Reverendo,Charley Fernandes
-
-
+Reverendo,Orebe Quaresma
+Reverendo,Gustavo Quintela
+Pastor,Douglas Lima
+Reverendo,Daniel
