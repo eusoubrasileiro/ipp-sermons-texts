@@ -1,3 +1,5 @@
 audio/
+!audio/archive.txt
 wav/
 haystack/
+processed/
